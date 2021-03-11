@@ -1,4 +1,4 @@
-# HTML5 Tag List
+# HTML5 current tag list
 Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 
 ---
