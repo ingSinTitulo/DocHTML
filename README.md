@@ -1,4 +1,4 @@
-# _HTML5_ Tag List
+# HTML5 Tag List
 Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 
 ---
