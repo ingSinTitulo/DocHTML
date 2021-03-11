@@ -1,4 +1,4 @@
-# HTML5 current tag list
+# HTML5 tag list
 Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 
 ---
@@ -120,17 +120,17 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 
 ---
 ## Deprecated tags, do not use any of these anymore under any circumstances
-| Tag           | Description                                                           | Can ve replaced with...                      |
-|---------------|-----------------------------------------------------------------------|----------------------------------------------|
-| `<dir>`       | Defines a directory list                                              | Can be replaced with `<ul>`                  |
-| `<center>`    | Defines centered text                                                 | Can be replaced with CSS rules               |
-| `<big>`       | Defines big text                                                      | Can be replaced with CSS rules               |
-| `<basefont>`  | Specifies a default color, size, and font for all text in a document  | Can be replaced with CSS rules               |
-| `<applet>`    | Defines an embedded applet                                            | Can be replaced with `<embed>` or `<object>` |
-| `<acronym>`   | Defines an acronym                                                    | Can be replaced with `<abbr>`                |
-| `<font>`      | Defines font, color, and size for text                                | Can be replaced with CSS rules               |
-| `<frame>`     | Defines a window (a frame) in a frameset                              | No longer supported nor needed               |
-| `<frameset>`  | Defines a set of frames                                               | No longer supported nor needed               |
-| `<noframes>`  | Defines an alternate content for users that do not support frames     | No longer supported nor needed               |
-| `<strike>`    | Defines strikethrough text                                            | Can be replaced with `<del>` or `<s>`        |
-| `<tt>`        | Defines teletype text                                                 | Can be replaced with CSS rules               |
+| Tag           | Description                                                           | Can be replaced with...        |
+|---------------|-----------------------------------------------------------------------|--------------------------------|
+| `<dir>`       | Defines a directory list                                              | `<ul>`                         |
+| `<center>`    | Defines centered text                                                 | CSS rules                      |
+| `<big>`       | Defines big text                                                      | CSS rules                      |
+| `<basefont>`  | Specifies a default color, size, and font for all text in a document  | CSS rules                      |
+| `<applet>`    | Defines an embedded applet                                            | `<embed>` or `<object>`        |
+| `<acronym>`   | Defines an acronym                                                    | `<abbr>`                       |
+| `<font>`      | Defines font, color, and size for text                                | CSS rules                      |
+| `<frame>`     | Defines a window (a frame) in a frameset                              | No longer supported nor needed |
+| `<frameset>`  | Defines a set of frames                                               | No longer supported nor needed |
+| `<noframes>`  | Defines an alternate content for users that do not support frames     | No longer supported nor needed |
+| `<strike>`    | Defines strikethrough text                                            | `<del>` or `<s>`               |
+| `<tt>`        | Defines teletype text                                                 | CSS rules                      |
