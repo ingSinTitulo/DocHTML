@@ -5,7 +5,7 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 ## Currently usable tags
 | Tag            | Description                                                                                              |
 |----------------|----------------------------------------------------------------------------------------------------------|
-| [`<!DOCTYPE>`](/tags/DOCTYPE.md)   | Defines the document type                                                                                |
+| [`<!DOCTYPE>`](/tags/!DOCTYPE.md) | Defines the document type |
 | `<html>`       | Defines the root of an HTML document                                                                     |
 | `<head>`       | Contains metadata/information for the document                                                           |
 | `<title>`      | Defines a title for the document                                                                         |
