@@ -1,6 +1,13 @@
 # HTML5 tag list
 Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
-
+## First steps
+- HTML needs to respect strict writting rules i.e. you must write the reserved keywords as they are show here to work properly, exactly as they are written in this documentation, without extra characters and cased as they are here.
+- All HTML documents will be saved in text files with the extension .html, there are other valid extensions, but we internally agree that our products will use this one in particular and none other.
+- The fundamental pieces in HTML are called tags and they follow a very well defined set of rules to be created (Notice that HTML tag is not the same as HTML element even though they are sometimes used interchangeably by mistake).
+- All HTML elements have attributes that modify their behaviour, and there are a set of global attributes that apply to all elements.
+- An HTML document is conformed by HTML elements, an element has to have a starting tag and optionally an inner content and a closing tag
+- In this documentation we will work only with HTML documents
+- If you find any strange word to you, tell me and it will be added to a dictionary that you can consult in the future
 ---
 ## Currently usable tags
 | Tag            | Description                                                                                              |
