@@ -1,5 +1,6 @@
 # HTML5 tag list
 Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
+---
 ## First steps
 - HTML needs to respect [strict writting](/first-steps/strict-writting.md) rules i.e. you must write the reserved keywords as they are shown here to work properly, exactly as they are written in this documentation, without extra characters and cased as they are here.
 - All HTML documents will be saved in text files with the [extension .html](/first-steps/file-extensions.md), there are other valid extensions, but we internally agree that our products will use this one in particular and none other.
@@ -10,11 +11,12 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 - If you find any strange word to you, tell me and it will be added to a [dictionary](/first-steps/dictionary.md) that you can consult in the future
 ---
 ## Currently usable tags
-| Tag            | Description                                                                                              |
-|----------------|----------------------------------------------------------------------------------------------------------|
+| Tag | Description |
+|-|-|
 | [`<!DOCTYPE>`](/tags/!DOCTYPE.md) | Defines the document type |
-| `<html>`       | Defines the root of an HTML document                                                                     |
-| `<head>`       | Contains metadata/information for the document                                                           |
+| [`<!--...-->`](/tags/!--.md) | Defines a comment |
+| [`<html>`](/tags/html.md) | Defines the root of an HTML document |
+| [`<head>`](/tags/head.md) | Contains metadata/information for the document |
 | `<title>`      | Defines a title for the document                                                                         |
 | `<meta>`       | Defines metadata about an HTML document                                                                  |
 | `<style>`      | Defines style information for a document                                                                 |
@@ -22,7 +24,6 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | `<script>`     | Defines a client-side script                                                                             |
 | `<base>`       | Specifies the base URL/target for all relative URLs in a document                                        |
 | `<address>`    | Defines contact information for the author/owner of a document                                           |
-| `<!--...-->`   | Defines a comment                                                                                        |
 | `<body>`       | Defines the document's body                                                                              |
 | `<nav>`        | Defines navigation links                                                                                 |
 | `<header>`     | Defines a header for a document or section                                                               |
