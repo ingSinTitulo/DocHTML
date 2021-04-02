@@ -1,0 +1,2 @@
+# File extensions
+Let's go straightforward: The only valid extension for the HTML documents in our products is `.html` and just it. Any other extensions like `.htm` or `.xhtml` will not be used. Never under any circumstances. That's it, go ahead with another document.
