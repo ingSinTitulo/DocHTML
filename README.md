@@ -17,12 +17,13 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | [`<!--...-->`](/tags/!--.md) | Defines a comment |
 | [`<html>`](/tags/html.md) | Defines the root of an HTML document |
 | [`<head>`](/tags/head.md) | Contains metadata/information for the document |
-| `<title>`      | Defines a title for the document                                                                         |
+| [`<title>`](/tags/title.md) | Defines a title for the document |
+| [`<style>`](/tags/style.md) | Defines style information for a document |
+| [`<base>`](/tags/base.md) | Specifies the base URL/target for all relative URLs in a document |
+| [`<link>`](/tags/link.md) | Defines the relationship between a document and an external resource (most used to link to style sheets) |
 | `<meta>`       | Defines metadata about an HTML document                                                                  |
-| `<style>`      | Defines style information for a document                                                                 |
-| `<link>`       | Defines the relationship between a document and an external resource (most used to link to style sheets) |
 | `<script>`     | Defines a client-side script                                                                             |
-| `<base>`       | Specifies the base URL/target for all relative URLs in a document                                        |
+| `<noscript>`   | Defines an alternate content for users that do not support client-side scripts                           |
 | `<address>`    | Defines contact information for the author/owner of a document                                           |
 | `<body>`       | Defines the document's body                                                                              |
 | `<nav>`        | Defines navigation links                                                                                 |
@@ -89,7 +90,6 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | `<time>`       | Defines a specific time (or datetime)                                                                    |
 | `<svg>`        | Defines a container for SVG graphics                                                                     |
 | `<canvas>`     | Used to draw graphics, on the fly, via scripting (usually JavaScript)                                    |
-| `<noscript>`   | Defines an alternate content for users that do not support client-side scripts                           |
 | `<iframe>`     | Defines an inline frame                                                                                  |
 | `<ul>`         | Defines an unordered list                                                                                |
 | `<ol>`         | Defines an ordered list                                                                                  |
