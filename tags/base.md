@@ -6,7 +6,7 @@ Defines the base url of all relative URLs in the document. When linking a CSS or
 ## Attributes
 | Name | Posible values | Notes |
 |-|-|-|
-| [Global attributes](../first-steps/global-attributes.md) | N/A | `<html>` supports all global attributes. |
+| [Global attributes](../first-steps/global-attributes.md) | N/A | `<base>` supports all global attributes. |
 | href | Any valid URL | Specifies the base URL for all relative URLs in the page |
 | target | `"_blank"`, `"_parent"`, `"_self"`, `"_top"` | Specifies the default target for all hyperlinks and forms in the page |
 

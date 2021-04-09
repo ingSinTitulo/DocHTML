@@ -4,7 +4,7 @@ Used to include CSS code within the documents instead of linking an external fil
 ## Attributes
 | Name | Posible values | Notes |
 |-|-|-|
-| [Global attributes](../first-steps/global-attributes.md) | N/A | `<html>` supports all global attributes. |
+| [Global attributes](../first-steps/global-attributes.md) | N/A | `<style>` supports all global attributes. |
 | `media` | Any media query | Specifies what media/device the media resource is optimized for |
 | `type` | "text/css" | Specifies the media type of the `<style>` tag |
 

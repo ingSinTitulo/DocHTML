@@ -7,7 +7,7 @@ Defines the relantionship between the document and external resources.
 ## Attributes
 | Name | Posible values | Notes |
 |-|-|-|
-| [Global attributes](../first-steps/global-attributes.md) | N/A | `<html>` supports all global attributes. |
+| [Global attributes](../first-steps/global-attributes.md) | N/A | `<link>` supports all global attributes. |
 | crossorigin | `"anonymous"`, `"use-credentials"` | Specifies how the element handles cross-origin requests |
 | href | Any valid URL | Specifies the location of the linked document |
 | hreflang | Any [ISO 639-1](https://www.loc.gov/standards/iso639-2/php/code_list.php) complaint language string | Specifies the language of the text in the linked document |

@@ -21,10 +21,9 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | [`<style>`](/tags/style.md) | Defines style information for a document |
 | [`<base>`](/tags/base.md) | Specifies the base URL/target for all relative URLs in a document |
 | [`<link>`](/tags/link.md) | Defines the relationship between a document and an external resource (most used to link to style sheets) |
-| `<meta>`       | Defines metadata about an HTML document                                                                  |
-| `<script>`     | Defines a client-side script                                                                             |
-| `<noscript>`   | Defines an alternate content for users that do not support client-side scripts                           |
-| `<address>`    | Defines contact information for the author/owner of a document                                           |
+| [`<meta>`](/tags/meta.md) | Defines metadata about an HTML document |
+| [`<script>`](/tags/script.md) | Defines a client-side script |
+| [`<noscript>`](/tags/noscript.md) | Defines an alternate content for users that do not support client-side scripts |
 | `<body>`       | Defines the document's body                                                                              |
 | `<nav>`        | Defines navigation links                                                                                 |
 | `<header>`     | Defines a header for a document or section                                                               |
@@ -33,6 +32,7 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | `<aside>`      | Defines content aside from the page content                                                              |
 | `<section>`    | Defines a section in a document                                                                          |
 | `<article>`    | Defines an article                                                                                       |
+| `<address>`    | Defines contact information for the author/owner of a document                                           |
 | `<span>`       | Defines a section in a document                                                                          |
 | `<a>`          | Defines a hyperlink                                                                                      |
 | `<h1>`         | Defines HTML first level headings - Biggest                                                              |
