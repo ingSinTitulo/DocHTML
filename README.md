@@ -25,15 +25,9 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | [`<script>`](/tags/script.md) | Defines a client-side script |
 | [`<noscript>`](/tags/noscript.md) | Defines an alternate content for users that do not support client-side scripts |
 | `<body>`       | Defines the document's body                                                                              |
-| `<nav>`        | Defines navigation links                                                                                 |
-| `<header>`     | Defines a header for a document or section                                                               |
-| `<main>`       | Specifies the main content of a document                                                                 |
-| `<footer>`     | Defines a footer for a document or section                                                               |
-| `<aside>`      | Defines content aside from the page content                                                              |
-| `<section>`    | Defines a section in a document                                                                          |
-| `<article>`    | Defines an article                                                                                       |
-| `<address>`    | Defines contact information for the author/owner of a document                                           |
-| `<span>`       | Defines a section in a document                                                                          |
+| `<p>`          | Defines a paragraph                                                                                      |
+| `<br>`         | Defines a single line break                                                                              |
+| `<wbr>`        | Defines a possible line-break                                                                            |
 | `<a>`          | Defines a hyperlink                                                                                      |
 | `<h1>`         | Defines HTML first level headings - Biggest                                                              |
 | `<h2>`         | Defines HTML second level headings                                                                       |
@@ -41,23 +35,19 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | `<h4>`         | Defines HTML fourth level headings                                                                       |
 | `<h5>`         | Defines HTML fifth level headings                                                                        |
 | `<h6>`         | Defines HTML sixth level headings - Smallest                                                             |
-| `<div>`        | Defines a section in a document                                                                          |
-| `<br>`         | Defines a single line break                                                                              |
 | `<hr>`         | Defines a thematic change in the content                                                                 |
-| `<abbr>`       | Defines an abbreviation or an acronym                                                                    |
-| `<button>`     | Defines a clickable button                                                                               |
-| `<b>`          | Defines bold text                                                                                        |
-| `<i>`          | Defines a part of text in an alternate voice or mood                                                     |
-| `<s>`          | Defines text that is no longer correct                                                                   |
-| `<p>`          | Defines a paragraph                                                                                      |
-| `<pre>`        | Defines preformatted text                                                                                |
-| `<code>`       | Defines a piece of computer code                                                                         |
-| `<small>`      | Defines smaller text                                                                                     |
-| `<cite>`       | Defines the title of a work                                                                              |
-| `<q>`          | Defines a short quotation                                                                                |
-| `<blockquote>` | Defines a section that is quoted from another source                                                     |
-| `<sub>`        | Defines subscripted text                                                                                 |
-| `<sup>`        | Defines superscripted text                                                                               |
+| `<ul>`         | Defines an unordered list                                                                                |
+| `<ol>`         | Defines an ordered list                                                                                  |
+| `<li>`         | Defines a list item                                                                                      |
+| `<span>`       | Defines a section in a document                                                                          |
+| `<div>`        | Defines a section in a document                                                                          |
+| `<nav>`        | Defines navigation links                                                                                 |
+| `<header>`     | Defines a header for a document or section                                                               |
+| `<main>`       | Specifies the main content of a document                                                                 |
+| `<section>`    | Defines a section in a document                                                                          |
+| `<article>`    | Defines an article                                                                                       |
+| `<footer>`     | Defines a footer for a document or section                                                               |
+| `<aside>`      | Defines content aside from the page content                                                              |
 | `<table>`      | Defines a table                                                                                          |
 | `<thead>`      | Groups the header content in a table                                                                     |
 | `<tbody>`      | Groups the body content in a table                                                                       |
@@ -66,65 +56,75 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | `<tr>`         | Defines a row in a table                                                                                 |
 | `<td>`         | Defines a cell in a table                                                                                |
 | `<caption>`    | Defines a table caption                                                                                  |
+| `<colgroup>`   | Specifies a group of one or more columns in a table for formatting                                       |
+| `<col>`        | Specifies column properties for each column within a `<colgroup>` element                                |
+| `<b>`          | Defines bold text                                                                                        |
+| `<strong>`     | Defines important text                                                                                   |
+| `<i>`          | Defines a part of text in an alternate voice or mood                                                     |
+| `<em>`         | Defines emphasized text                                                                                  |
+| `<s>`          | Defines text that is no longer correct                                                                   |
+| `<del>`        | Defines text that has been deleted from a document                                                       |
+| `<ins>`        | Defines a text that has been inserted into a document                                                    |
+| `<u>`          | Defines some text that is unarticulated and styled differently from normal text                          |
+| `<abbr>`       | Defines an abbreviation or an acronym                                                                    |
+| `<address>`    | Defines contact information for the author/owner of a document                                           |
+| `<pre>`        | Defines preformatted text                                                                                |
+| `<code>`       | Defines a piece of computer code                                                                         |
+| `<small>`      | Defines smaller text                                                                                     |
+| `<cite>`       | Defines the title of a work                                                                              |
+| `<q>`          | Defines a short quotation                                                                                |
+| `<blockquote>` | Defines a section that is quoted from another source                                                     |
+| `<sub>`        | Defines subscripted text                                                                                 |
+| `<sup>`        | Defines superscripted text                                                                               |
+| `<mark>`       | Defines marked/highlighted text                                                                          |
+| `<var>`        | Defines a variable                                                                                       |
+| `<time>`       | Defines a specific time (or datetime)                                                                    |
+| `<data>`       | Adds a machine-readable translation of a given content                                                   |
+| `<details>`    | Defines additional details that the user can view or hide                                                |
+| `<summary>`    | Defines a visible heading for a `<details>` element                                                      |
+| `<dialog>`     | Defines a dialog box or window                                                                           |
+| `<kbd>`        | Defines keyboard input                                                                                   |
+| `<samp>`       | Defines sample output from a computer program                                                            |
+| `<dfn>`        | Specifies a term that is going to be defined within the content                                          |
+| `<dl>`         | Defines a description list                                                                               |
+| `<dt>`         | Defines a term/name in a description list                                                                |
+| `<dd>`         | Defines a description/value of a term in a description list                                              |
+| `<meter>`      | Defines a scalar measurement within a known range (a gauge)                                              |
+| `<bdo>`        | Overrides the current text direction                                                                     |
+| `<bdi>`        | Isolates a part of text that might be formatted in a different direction from other text outside it      |
+| `<ruby>`       | Defines a ruby annotation (for East Asian typography)                                                    |
+| `<rt>`         | Defines an explanation/pronunciation of characters (for East Asian typography)                           |
+| `<rp>`         | Defines what to show in browsers that do not support ruby annotations                                    |
+| `<img>`        | Defines an image                                                                                         |
+| `<picture>`    | Defines a container for multiple image resources                                                         |
+| `<map>`        | Defines an image-map                                                                                     |
+| `<area>`       | Defines an area inside an image-map                                                                      |
+| `<figure>`     | Specifies self-contained content                                                                         |
+| `<figcaption>` | Defines a caption for a `<figure>` element                                                               |
+| `<form>`       | Defines an HTML form for user input                                                                      |
+| `<input>`      | Defines an input control                                                                                 |
+| `<datalist>`   | Specifies a list of pre-defined options for input controls                                               |
+| `<label>`      | Defines a label for an `<input>` element                                                                 |
+| `<button>`     | Defines a clickable button                                                                               |
+| `<textarea>`   | Defines a multiline input control (text area)                                                            |
+| `<select>`     | Defines a drop-down list                                                                                 |
+| `<option>`     | Defines an option in a drop-down list                                                                    |
+| `<optgroup>`   | Defines a group of related options in a drop-down list                                                   |
+| `<fieldset>`   | Groups related elements in a form                                                                        |
+| `<legend>`     | Defines a caption for a `<fieldset>` element                                                             |
+| `<output>`     | Defines the result of a calculation                                                                      |
+| `<progress>`   | Represents the progress of a task                                                                        |
+| `<template>`   | Defines a container for content that should be hidden when the page loads                                |
 | `<audio>`      | Defines embedded sound content                                                                           |
 | `<video>`      | Defines embedded video content                                                                           |
 | `<source>`     | Defines multiple media resources for media elements (`<video>` and `<audio>`)                            |
 | `<track>`      | Defines text tracks for media elements (`<video>` and `<audio>`)                                         |
-| `<strong>`     | Defines important text                                                                                   |
-| `<em>`         | Defines emphasized text                                                                                  |
-| `<del>`        | Defines text that has been deleted from a document                                                       |
-| `<colgroup>`   | Specifies a group of one or more columns in a table for formatting                                       |
-| `<col>`        | Specifies column properties for each column within a `<colgroup>` element                                |
-| `<form>`       | Defines an HTML form for user input                                                                      |
-| `<select>`     | Defines a drop-down list                                                                                 |
-| `<option>`     | Defines an option in a drop-down list                                                                    |
-| `<optgroup>`   | Defines a group of related options in a drop-down list                                                   |
-| `<textarea>`   | Defines a multiline input control (text area)                                                            |
-| `<label>`      | Defines a label for an `<input>` element                                                                 |
-| `<input>`      | Defines an input control                                                                                 |
-| `<fieldset>`   | Groups related elements in a form                                                                        |
-| `<legend>`     | Defines a caption for a `<fieldset>` element                                                             |
-| `<output>`     | Defines the result of a calculation                                                                      |
-| `<img>`        | Defines an image                                                                                         |
-| `<picture>`    | Defines a container for multiple image resources                                                         |
-| `<time>`       | Defines a specific time (or datetime)                                                                    |
+| `<iframe>`     | Defines an inline frame                                                                                  |
 | `<svg>`        | Defines a container for SVG graphics                                                                     |
 | `<canvas>`     | Used to draw graphics, on the fly, via scripting (usually JavaScript)                                    |
-| `<iframe>`     | Defines an inline frame                                                                                  |
-| `<ul>`         | Defines an unordered list                                                                                |
-| `<ol>`         | Defines an ordered list                                                                                  |
-| `<li>`         | Defines a list item                                                                                      |
-| `<meter>`      | Defines a scalar measurement within a known range (a gauge)                                              |
-| `<progress>`   | Represents the progress of a task                                                                        |
-| `<area>`       | Defines an area inside an image-map                                                                      |
-| `<bdi>`        | Isolates a part of text that might be formatted in a different direction from other text outside it      |
-| `<bdo>`        | Overrides the current text direction                                                                     |
-| `<data>`       | Adds a machine-readable translation of a given content                                                   |
-| `<datalist>`   | Specifies a list of pre-defined options for input controls                                               |
-| `<summary>`    | Defines a visible heading for a `<details>` element                                                      |
-| `<dd>`         | Defines a description/value of a term in a description list                                              |
-| `<details>`    | Defines additional details that the user can view or hide                                                |
-| `<dfn>`        | Specifies a term that is going to be defined within the content                                          |
-| `<dialog>`     | Defines a dialog box or window                                                                           |
-| `<dl>`         | Defines a description list                                                                               |
-| `<dt>`         | Defines a term/name in a description list                                                                |
 | `<embed>`      | Defines a container for an external application                                                          |
-| `<figure>`     | Specifies self-contained content                                                                         |
-| `<figcaption>` | Defines a caption for a `<figure>` element                                                               |
-| `<ins>`        | Defines a text that has been inserted into a document                                                    |
-| `<kbd>`        | Defines keyboard input                                                                                   |
-| `<map>`        | Defines an image-map                                                                                     |
-| `<mark>`       | Defines marked/highlighted text                                                                          |
 | `<object>`     | Defines a container for an external application                                                          |
 | `<param>`      | Defines a parameter for an object                                                                        |
-| `<ruby>`       | Defines a ruby annotation (for East Asian typography)                                                    |
-| `<rt>`         | Defines an explanation/pronunciation of characters (for East Asian typography)                           |
-| `<rp>`         | Defines what to show in browsers that do not support ruby annotations                                    |
-| `<samp>`       | Defines sample output from a computer program                                                            |
-| `<template>`   | Defines a container for content that should be hidden when the page loads                                |
-| `<u>`          | Defines some text that is unarticulated and styled differently from normal text                          |
-| `<var>`        | Defines a variable                                                                                       |
-| `<wbr>`        | Defines a possible line-break                                                                            |
 
 ---
 ## Deprecated tags, do not use any of these anymore under any circumstances
