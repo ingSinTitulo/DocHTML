@@ -24,18 +24,18 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | [`<script>`](/tags/script.md) | Defines a client-side script |
 | [`<noscript>`](/tags/noscript.md) | Defines an alternate content for users that do not support client-side scripts |
 | [`<base>`](/tags/base.md) | Specifies the base URL/target for all relative URLs in a document |
-| `<body>`       | Defines the document's body                                                                              |
-| `<p>`          | Defines a paragraph                                                                                      |
-| `<br>`         | Defines a single line break                                                                              |
-| `<wbr>`        | Defines a possible line-break                                                                            |
-| `<a>`          | Defines a hyperlink                                                                                      |
-| `<h1>`         | Defines HTML first level headings - Biggest                                                              |
-| `<h2>`         | Defines HTML second level headings                                                                       |
-| `<h3>`         | Defines HTML third level headings                                                                        |
-| `<h4>`         | Defines HTML fourth level headings                                                                       |
-| `<h5>`         | Defines HTML fifth level headings                                                                        |
-| `<h6>`         | Defines HTML sixth level headings - Smallest                                                             |
-| `<hr>`         | Defines a thematic change in the content                                                                 |
+| [`<body>`](/tags/body.md) | Defines the document's body |
+| [`<p>`](/tags/p.md) | Defines a paragraph |
+| [`<br>`](/tags/br.md) | Defines a single line break |
+| [`<wbr>`](/tags/wbr.md) | Defines a possible line-break |
+| [`<a>`](/tags/a.md) | Defines a hyperlink |
+| [`<h1>`](/tags/h1toh6.md) | Defines HTML first level headings - Biggest |
+| [`<h2>`](/tags/h1toh6.md) | Defines HTML second level headings |
+| [`<h3>`](/tags/h1toh6.md) | Defines HTML third level headings |
+| [`<h4>`](/tags/h1toh6.md) | Defines HTML fourth level headings |
+| [`<h5>`](/tags/h1toh6.md) | Defines HTML fifth level headings |
+| [`<h6>`](/tags/h1toh6.md) | Defines HTML sixth level headings - Smallest |
+| [`<hr>`](/tags/hr.md) | Defines a thematic change in the content |
 | `<ul>`         | Defines an unordered list                                                                                |
 | `<ol>`         | Defines an ordered list                                                                                  |
 | `<li>`         | Defines a list item                                                                                      |
