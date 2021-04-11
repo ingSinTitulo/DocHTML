@@ -36,16 +36,17 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | [`<h5>`](/tags/h1toh6.md) | Defines HTML fifth level headings |
 | [`<h6>`](/tags/h1toh6.md) | Defines HTML sixth level headings - Smallest |
 | [`<hr>`](/tags/hr.md) | Defines a thematic change in the content |
-| `<ul>`         | Defines an unordered list                                                                                |
-| `<ol>`         | Defines an ordered list                                                                                  |
-| `<li>`         | Defines a list item                                                                                      |
-| `<span>`       | Defines a section in a document                                                                          |
-| `<div>`        | Defines a section in a document                                                                          |
-| `<nav>`        | Defines navigation links                                                                                 |
-| `<header>`     | Defines a header for a document or section                                                               |
-| `<main>`       | Specifies the main content of a document                                                                 |
-| `<section>`    | Defines a section in a document                                                                          |
-| `<article>`    | Defines an article                                                                                       |
+| [`<ul>`](/tags/ul.md) | Defines an unordered list |
+| [`<ol>`](/tags/ol.md) | Defines an ordered list |
+| [`<li>`](/tags/li.md) | Defines a list item |
+| [`<div>`](/tags/div.md) | Defines a block section in a document |
+| [`<span>`](/tags/span.md) | Defines an inline section in a document |
+| [`<nav>`](/tags/nav.md) | Defines navigation links |
+| [`<header>`](/tags/header.md) | Defines a header for a document or section |
+| [`<main>`](/tags/main.md) | Specifies the main content of a document |
+| [`<section>`](/tags/section.md) | Defines a section in a document |
+| [`<article>`](article.md) | Defines an article |
+| `<address>`    | Defines contact information for the author/owner of a document                                           |
 | `<footer>`     | Defines a footer for a document or section                                                               |
 | `<aside>`      | Defines content aside from the page content                                                              |
 | `<table>`      | Defines a table                                                                                          |
@@ -67,7 +68,6 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | `<ins>`        | Defines a text that has been inserted into a document                                                    |
 | `<u>`          | Defines some text that is unarticulated and styled differently from normal text                          |
 | `<abbr>`       | Defines an abbreviation or an acronym                                                                    |
-| `<address>`    | Defines contact information for the author/owner of a document                                           |
 | `<pre>`        | Defines preformatted text                                                                                |
 | `<code>`       | Defines a piece of computer code                                                                         |
 | `<small>`      | Defines smaller text                                                                                     |
@@ -90,8 +90,8 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | `<dt>`         | Defines a term/name in a description list                                                                |
 | `<dd>`         | Defines a description/value of a term in a description list                                              |
 | `<meter>`      | Defines a scalar measurement within a known range (a gauge)                                              |
-| `<bdo>`        | Overrides the current text direction                                                                     |
 | `<bdi>`        | Isolates a part of text that might be formatted in a different direction from other text outside it      |
+| `<bdo>`        | Overrides the current text direction                                                                     |
 | `<ruby>`       | Defines a ruby annotation (for East Asian typography)                                                    |
 | `<rt>`         | Defines an explanation/pronunciation of characters (for East Asian typography)                           |
 | `<rp>`         | Defines what to show in browsers that do not support ruby annotations                                    |
