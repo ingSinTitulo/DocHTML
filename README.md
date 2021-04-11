@@ -18,12 +18,12 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | [`<html>`](/tags/html.md) | Defines the root of an HTML document |
 | [`<head>`](/tags/head.md) | Contains metadata/information for the document |
 | [`<title>`](/tags/title.md) | Defines a title for the document |
+| [`<meta>`](/tags/meta.md) | Defines metadata about an HTML document |
 | [`<style>`](/tags/style.md) | Defines style information for a document |
 | [`<link>`](/tags/link.md) | Defines the relationship between a document and an external resource (most used to link to style sheets) |
 | [`<script>`](/tags/script.md) | Defines a client-side script |
 | [`<noscript>`](/tags/noscript.md) | Defines an alternate content for users that do not support client-side scripts |
 | [`<base>`](/tags/base.md) | Specifies the base URL/target for all relative URLs in a document |
-| [`<meta>`](/tags/meta.md) | Defines metadata about an HTML document |
 | `<body>`       | Defines the document's body                                                                              |
 | `<p>`          | Defines a paragraph                                                                                      |
 | `<br>`         | Defines a single line break                                                                              |
