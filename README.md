@@ -45,7 +45,7 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | [`<header>`](/tags/header.md) | Defines a header for a document or section |
 | [`<main>`](/tags/main.md) | Specifies the main content of a document |
 | [`<section>`](/tags/section.md) | Defines a section in a document |
-| [`<article>`](article.md) | Defines an article |
+| [`<article>`](/tags/article.md) | Defines an article |
 | `<address>`    | Defines contact information for the author/owner of a document                                           |
 | `<footer>`     | Defines a footer for a document or section                                                               |
 | `<aside>`      | Defines content aside from the page content                                                              |
