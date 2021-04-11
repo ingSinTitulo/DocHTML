@@ -13,9 +13,9 @@ Used to define metadata about the document.
 |-|-|-|
 | [Global attributes](../first-steps/global-attributes.md) | N/A | `<meta>` supports all global attributes. |
 | charset | Any character set definition string | Specifies the character encoding for the HTML document |
-| content | Any string | Specifies the value associated with the http-equiv or name attribute |
-| http-equiv | `"content-security-policy"`, `"content-type"`, `"default-style"`, `"refresh"` | Provides an HTTP header for the information/value of the content attribute |
 | name | `"application-name"`, `"author"`, `"description"`, `"generator"`, `"keywords"`, `"viewport"` | Specifies a name for the metadata |
+| content | Any string | Specifies the value associated with the http-equiv or name attribute |
+| http-equiv | `"content-security-policy"`, `"content-type"`, `"default-style"`, `"refresh"` | Not recomended, all HTTP headers must come in the response headers. Provides an HTTP header for the information/value of the content attribute |
 
 ## Example
 ```html
