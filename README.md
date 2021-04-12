@@ -64,13 +64,13 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | [`<i>`](/tags/i.md) | Defines a part of text in an alternate voice or mood |
 | [`<em>`](/tags/em.md) | Defines emphasized text |
 | [`<s>`](/tags/s.md) | Defines text that is no longer correct |
-| `<del>`        | Defines text that has been deleted from a document                                                       |
-| `<ins>`        | Defines a text that has been inserted into a document                                                    |
-| `<u>`          | Defines some text that is unarticulated and styled differently from normal text                          |
-| `<abbr>`       | Defines an abbreviation or an acronym                                                                    |
-| `<pre>`        | Defines preformatted text                                                                                |
-| `<code>`       | Defines a piece of computer code                                                                         |
-| `<small>`      | Defines smaller text                                                                                     |
+| [`<del>`](/tags/del.md) | Defines text that has been deleted from a document |
+| [`<ins>`](/tags/ins.md) | Defines a text that has been inserted into a document |
+| [`<u>`](/tags/u.md) | Defines some text that is unarticulated and styled differently from normal text |
+| [`<abbr>`](/tags/abbr.md) | Defines an abbreviation or an acronym |
+| [`<pre>`](/tags/pre.md) | Defines preformatted text |
+| [`<code>`](/tags/code.md) | Defines a piece of computer code |
+| [`<small>`](/tags/small.md) | Defines smaller text |
 | `<cite>`       | Defines the title of a work                                                                              |
 | `<q>`          | Defines a short quotation                                                                                |
 | `<blockquote>` | Defines a section that is quoted from another source                                                     |
