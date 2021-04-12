@@ -1,8 +1,8 @@
 # The `<noscript>` element
 Defines alternative text to be shown if the client does not have JavaScript enabled.
 
-- Can be both inside `<head>` and `<body>` elements
-- If it is inside `<head>`, it can only contain `<link>`, `<style>` and `<meta>` elements
+- Can be both inside [`<head>`](head.md) and [`<body>`](body.md) elements
+- If it is inside [`<head>`](head.md), it can only contain [`<link>`](link.md), [`<style>`](style.md) and [`<meta>`](meta.md) elements
 
 ## Attributes
 | Name | Posible values | Notes |

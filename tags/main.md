@@ -3,7 +3,7 @@ Defines the main content in the document
 
 - There must only be one `<main>` element
 - Must not contain repetitive content, such as sidebars, navigation links, copyright information, site logos, and search forms
-- The `<main>` element must **NOT** be a descendant of an `<article>`, `<aside>`, `<footer>`, [`<header>`](header.md), or [`<nav>`](nav.md) element
+- The `<main>` element must **NOT** be a descendant of an [`<article>`](article.md), [`<aside>`](aside.md), [`<footer>`](footer.md), [`<header>`](header.md), or [`<nav>`](nav.md) element
 
 ## Attributes
 | Name | Posible values | Notes |

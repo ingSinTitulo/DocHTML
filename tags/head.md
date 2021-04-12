@@ -5,13 +5,13 @@ Is a container for metadata about the document.
 - Is child of the [`<html>`](html.md) element
 - The document can have just one `<head>` element
 - It is parent for the next elements
-    - `<title>` mandatory for SEO
-    - `<style>` not recomended as all styles should be in a separated file
-    - `<base>` optional
-    - `<link>` optional
-    - `<meta>` mandatory for defining the charset of the document, but all other `<meta>` possible elements are optional
-    - `<script>` optional
-    - `<noscript>` optional
+    - [`<title>`](title.md) mandatory for SEO
+    - [`<style>`](style.md) not recomended as all styles should be in a separated file
+    - [`<base>`](base.md) optional
+    - [`<link>`](link.md) optional
+    - [`<meta>`](meta.md) mandatory for defining the charset of the document, but all other [`<meta>`](meta.md) possible elements are optional
+    - [`<script>`](script.md) optional
+    - [`<noscript>`](noscript.md) optional
 
 ## Atributes
 | Name | Posible values | Notes |

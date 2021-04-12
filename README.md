@@ -46,21 +46,21 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | [`<main>`](/tags/main.md) | Specifies the main content of a document |
 | [`<section>`](/tags/section.md) | Defines a section in a document |
 | [`<article>`](/tags/article.md) | Defines an article |
-| `<address>`    | Defines contact information for the author/owner of a document                                           |
-| `<footer>`     | Defines a footer for a document or section                                                               |
-| `<aside>`      | Defines content aside from the page content                                                              |
-| `<table>`      | Defines a table                                                                                          |
-| `<thead>`      | Groups the header content in a table                                                                     |
-| `<tbody>`      | Groups the body content in a table                                                                       |
-| `<tfoot>`      | Groups the footer content in a table                                                                     |
-| `<th>`         | Defines a header cell in a table                                                                         |
-| `<tr>`         | Defines a row in a table                                                                                 |
-| `<td>`         | Defines a cell in a table                                                                                |
-| `<caption>`    | Defines a table caption                                                                                  |
-| `<colgroup>`   | Specifies a group of one or more columns in a table for formatting                                       |
-| `<col>`        | Specifies column properties for each column within a `<colgroup>` element                                |
-| `<b>`          | Defines bold text                                                                                        |
-| `<strong>`     | Defines important text                                                                                   |
+| [`<address>`](/tags/address.md) | Defines contact information for the author/owner of a document |
+| [`<footer>`](/tags/footer.md) | Defines a footer for a document or section |
+| [`<aside>`](/tags/aside.md) | Defines content aside from the page content |
+| [`<table>`](/tags/table.md) | Defines a table |
+| [`<thead>`](/tags/thead.md) | Groups the header content in a table |
+| [`<tr>`](/tags/tr.md) | Defines a row in a table |
+| [`<th>`](/tags/th.md) | Defines a header cell in a table |
+| [`<tbody>`](/tags/tbody.md) | Groups the body content in a table |
+| [`<td>`](/tags/td.md) | Defines a cell in a table |
+| [`<tfoot>`](/tags/tfoot.md) | Groups the footer content in a table |
+| [`<caption>`](/tags/caption.md) | Defines a table caption |
+| [`<colgroup>`](tags/colgroup.md) | Specifies a group of one or more columns in a table for formatting |
+| [`<col>`](col.md) | Specifies column properties for each column within a `<colgroup>` element |
+| [`<b>`](b.md) | Defines bold text |
+| [`<strong>`](strong.md) | Defines important text |
 | `<i>`          | Defines a part of text in an alternate voice or mood                                                     |
 | `<em>`         | Defines emphasized text                                                                                  |
 | `<s>`          | Defines text that is no longer correct                                                                   |
@@ -76,15 +76,15 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | `<blockquote>` | Defines a section that is quoted from another source                                                     |
 | `<sub>`        | Defines subscripted text                                                                                 |
 | `<sup>`        | Defines superscripted text                                                                               |
-| `<mark>`       | Defines marked/highlighted text                                                                          |
 | `<var>`        | Defines a variable                                                                                       |
 | `<time>`       | Defines a specific time (or datetime)                                                                    |
 | `<data>`       | Adds a machine-readable translation of a given content                                                   |
+| `<kbd>`        | Defines keyboard input                                                                                   |
+| `<samp>`       | Defines sample output from a computer program                                                            |
+| `<mark>`       | Defines marked/highlighted text                                                                          |
 | `<details>`    | Defines additional details that the user can view or hide                                                |
 | `<summary>`    | Defines a visible heading for a `<details>` element                                                      |
 | `<dialog>`     | Defines a dialog box or window                                                                           |
-| `<kbd>`        | Defines keyboard input                                                                                   |
-| `<samp>`       | Defines sample output from a computer program                                                            |
 | `<dfn>`        | Specifies a term that is going to be defined within the content                                          |
 | `<dl>`         | Defines a description list                                                                               |
 | `<dt>`         | Defines a term/name in a description list                                                                |

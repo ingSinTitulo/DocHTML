@@ -4,7 +4,7 @@ Defines the header for the document or for a section within the document
 - This element should contain the presentation information (Logo, a [heading element](h1toh6.md) and an introduction)
 - Optionally, if the presentation is not needed and this element is the header of the document, you can use this element as the parent for the [`<nav>`](nav.md) element of our document
 - Each section of the document can contain a `<header>` element
-- The `<header>` cannot be placed within a `<footer>`, `<address>` or another `<header>` element
+- The `<header>` cannot be placed within a [`<footer>`](footer.md), [`<address>`](address.md) or another `<header>` element
 
 ## Attributes
 | Name | Posible values | Notes |
