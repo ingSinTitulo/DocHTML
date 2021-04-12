@@ -61,9 +61,9 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | [`<col>`](/tags/col.md) | Specifies column properties for each column within a `<colgroup>` element |
 | [`<b>`](/tags/b.md) | Defines bold text |
 | [`<strong>`](/tags/strong.md) | Defines important text |
-| `<i>`          | Defines a part of text in an alternate voice or mood                                                     |
-| `<em>`         | Defines emphasized text                                                                                  |
-| `<s>`          | Defines text that is no longer correct                                                                   |
+| [`<i>`](/tags/i.md) | Defines a part of text in an alternate voice or mood |
+| [`<em>`](/tags/em.md) | Defines emphasized text |
+| [`<s>`](/tags/s.md) | Defines text that is no longer correct |
 | `<del>`        | Defines text that has been deleted from a document                                                       |
 | `<ins>`        | Defines a text that has been inserted into a document                                                    |
 | `<u>`          | Defines some text that is unarticulated and styled differently from normal text                          |

@@ -9,7 +9,7 @@ Defines an ordered or unordered list
 | Name | Posible values | Notes |
 |-|-|-|
 | [Global attributes](../first-steps/global-attributes.md) | N/A | `<li>` supports all global attributes. |
-| value | Any valid unsigned integer number | Only for [`<ol>`](ol.md) lists. Specifies the start value of a list item. The following list items will increment from that number |
+| `value` | Any valid unsigned integer number | Only for [`<ol>`](ol.md) lists. Specifies the start value of a list item. The following list items will increment from that number |
 
 ## Example
 ```html

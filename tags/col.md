@@ -8,7 +8,7 @@ Defines properties for a column in a table
 | Name | Posible values | Notes |
 |-|-|-|
 | [Global attributes](../first-steps/global-attributes.md) | N/A | `<col>` supports all global attributes. |
-| span | Any valid unsigned integer number | Specifies the number of columns a `<col>` element should span |
+| `span` | Any valid unsigned integer number | Specifies the number of columns a `<col>` element should span |
 
 ## Example
 ```html

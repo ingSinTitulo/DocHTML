@@ -8,9 +8,9 @@ Defines an ordered list
 | Name | Posible values | Notes |
 |-|-|-|
 | [Global attributes](../first-steps/global-attributes.md) | N/A | `<ol>` supports all global attributes. |
-| reversed | Not required | Specifies that the list order should be reversed (9,8,7...) |
-| start | Any valid unsigned integer number | Specifies the start value of an ordered list |
-| type | `"1"`, `"A"`, `"a"`, `"I"`, `"i"` | Specifies the kind of marker to use in the list |
+| `reversed` | Not required | Specifies that the list order should be reversed (9,8,7...) |
+| `start` | Any valid unsigned integer number | Specifies the start value of an ordered list |
+| `type` | `"1"`, `"A"`, `"a"`, `"I"`, `"i"` | Specifies the kind of marker to use in the list |
 
 ## Example
 ```html

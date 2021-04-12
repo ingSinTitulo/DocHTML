@@ -8,15 +8,15 @@ Defines the relantionship between the document and external resources.
 | Name | Posible values | Notes |
 |-|-|-|
 | [Global attributes](../first-steps/global-attributes.md) | N/A | `<link>` supports all global attributes. |
-| crossorigin | `"anonymous"`, `"use-credentials"` | Specifies how the element handles cross-origin requests |
-| href | Any valid URL | Specifies the location of the linked document |
-| hreflang | Any [ISO 639-1](https://www.loc.gov/standards/iso639-2/php/code_list.php) complaint language string | Specifies the language of the text in the linked document |
-| media | Any valid media query | Specifies on what device the linked document will be displayed |
-| referrerpolicy | `"no-referrer"`, `"no-referrer-when-downgrade"`, `"origin"`, `"origin-when-cross-origin"`, `"unsafe-url"` | Specifies which referrer to use when fetching the resource |
-| rel | `"alternate"`, `"author"`, `"dns-prefetch"`, `"help"`, `"icon"`, `"license"`, `"next"`, `"pingback"`, `"preconnect"`, `"prefetch"`, `"preload"`, `"prerender"`, `"prev"`, `"search"`, `"stylesheet"` | **Required**. Specifies the relationship between the current document and the linked document |
-| sizes | `"[Height as number in pixels]x[Width as number in pixels]"`, `"any"` | Specifies the size of the linked resource. Only for rel="icon" |
-| title | Any string | Defines a preferred or an alternate stylesheet |
-| type | Any valid media type | Specifies the media type of the linked document |
+| `crossorigin` | `"anonymous"`, `"use-credentials"` | Specifies how the element handles cross-origin requests |
+| `href` | Any valid URL | Specifies the location of the linked document |
+| `hreflang` | Any [ISO 639-1](https://www.loc.gov/standards/iso639-2/php/code_list.php) complaint language string | Specifies the language of the text in the linked document |
+| `media` | Any valid media query | Specifies on what device the linked document will be displayed |
+| `referrerpolicy` | `"no-referrer"`, `"no-referrer-when-downgrade"`, `"origin"`, `"origin-when-cross-origin"`, `"unsafe-url"` | Specifies which referrer to use when fetching the resource |
+| `rel` | `"alternate"`, `"author"`, `"dns-prefetch"`, `"help"`, `"icon"`, `"license"`, `"next"`, `"pingback"`, `"preconnect"`, `"prefetch"`, `"preload"`, `"prerender"`, `"prev"`, `"search"`, `"stylesheet"` | **Required**. Specifies the relationship between the current document and the linked document |
+| `sizes` | `"[Height as number in pixels]x[Width as number in pixels]"`, `"any"` | Specifies the size of the linked resource. Only for rel="icon" |
+| `title` | Any string | Defines a preferred or an alternate stylesheet |
+| `type` | Any valid media type | Specifies the media type of the linked document |
 
 ## Example
 ```html
