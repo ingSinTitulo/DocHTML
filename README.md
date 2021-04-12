@@ -58,9 +58,9 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | [`<tfoot>`](/tags/tfoot.md) | Groups the footer content in a table |
 | [`<caption>`](/tags/caption.md) | Defines a table caption |
 | [`<colgroup>`](tags/colgroup.md) | Specifies a group of one or more columns in a table for formatting |
-| [`<col>`](col.md) | Specifies column properties for each column within a `<colgroup>` element |
-| [`<b>`](b.md) | Defines bold text |
-| [`<strong>`](strong.md) | Defines important text |
+| [`<col>`](/tags/col.md) | Specifies column properties for each column within a `<colgroup>` element |
+| [`<b>`](/tags/b.md) | Defines bold text |
+| [`<strong>`](/tags/strong.md) | Defines important text |
 | `<i>`          | Defines a part of text in an alternate voice or mood                                                     |
 | `<em>`         | Defines emphasized text                                                                                  |
 | `<s>`          | Defines text that is no longer correct                                                                   |
