@@ -74,14 +74,14 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | [`<cite>`](/tags/cite.md) | Defines the title of a work |
 | [`<q>`](/tags/q.md) | Defines a short quotation |
 | [`<blockquote>`](/tags/blockquote.md) | Defines a section that is quoted from another source |
-| `<sub>`        | Defines subscripted text                                                                                 |
-| `<sup>`        | Defines superscripted text                                                                               |
-| `<var>`        | Defines a variable                                                                                       |
-| `<time>`       | Defines a specific time (or datetime)                                                                    |
-| `<data>`       | Adds a machine-readable translation of a given content                                                   |
-| `<kbd>`        | Defines keyboard input                                                                                   |
-| `<samp>`       | Defines sample output from a computer program                                                            |
-| `<mark>`       | Defines marked/highlighted text                                                                          |
+| [`<sub>`](/tags/sub.md) | Defines subscripted text |
+| [`<sup>`](/tags/sup.md) | Defines superscripted text |
+| [`<var>`](/tags/var.md) | Defines a variable |
+| [`<time>`](/tags/time.md) | Defines a specific time (or datetime) |
+| [`<data>`](/tags/data.md) | Adds a machine-readable translation of a given content |
+| [`<kbd>`](/tags/kbd.md) | Defines keyboard input |
+| [`<samp>`](/tags/samp.md) | Defines sample output from a computer program |
+| [`<mark>`](/tags/mark.md) | Defines marked/highlighted text |
 | `<details>`    | Defines additional details that the user can view or hide                                                |
 | `<summary>`    | Defines a visible heading for a `<details>` element                                                      |
 | `<dialog>`     | Defines a dialog box or window                                                                           |
