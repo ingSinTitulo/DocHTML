@@ -71,9 +71,9 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | [`<pre>`](/tags/pre.md) | Defines preformatted text |
 | [`<code>`](/tags/code.md) | Defines a piece of computer code |
 | [`<small>`](/tags/small.md) | Defines smaller text |
-| `<cite>`       | Defines the title of a work                                                                              |
-| `<q>`          | Defines a short quotation                                                                                |
-| `<blockquote>` | Defines a section that is quoted from another source                                                     |
+| [`<cite>`](/tags/cite.md) | Defines the title of a work |
+| [`<q>`](/tags/q.md) | Defines a short quotation |
+| [`<blockquote>`](/tags/blockquote.md) | Defines a section that is quoted from another source |
 | `<sub>`        | Defines subscripted text                                                                                 |
 | `<sup>`        | Defines superscripted text                                                                               |
 | `<var>`        | Defines a variable                                                                                       |
