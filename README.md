@@ -94,12 +94,6 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | [`<ruby>`](/tags/ruby.md) | Defines a ruby annotation (for East Asian typography) |
 | [`<rt>`](/tags/rt.md) | Defines an explanation/pronunciation of characters (for East Asian typography) |
 | [`<rp>`](/tags/rp.md) | Defines what to show in browsers that do not support ruby annotations |
-| `<img>`        | Defines an image                                                                                         |
-| `<picture>`    | Defines a container for multiple image resources                                                         |
-| `<map>`        | Defines an image-map                                                                                     |
-| `<area>`       | Defines an area inside an image-map                                                                      |
-| `<figure>`     | Specifies self-contained content                                                                         |
-| `<figcaption>` | Defines a caption for a `<figure>` element                                                               |
 | `<form>`       | Defines an HTML form for user input                                                                      |
 | `<input>`      | Defines an input control                                                                                 |
 | `<datalist>`   | Specifies a list of pre-defined options for input controls                                               |
@@ -119,9 +113,15 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | `<video>`      | Defines embedded video content                                                                           |
 | `<source>`     | Defines multiple media resources for media elements (`<video>` and `<audio>`)                            |
 | `<track>`      | Defines text tracks for media elements (`<video>` and `<audio>`)                                         |
-| `<iframe>`     | Defines an inline frame                                                                                  |
+| `<img>`        | Defines an image                                                                                         |
+| `<picture>`    | Defines a container for multiple image resources                                                         |
+| `<map>`        | Defines an image-map                                                                                     |
+| `<area>`       | Defines an area inside an image-map                                                                      |
+| `<figure>`     | Specifies self-contained content                                                                         |
+| `<figcaption>` | Defines a caption for a `<figure>` element                                                               |
 | `<svg>`        | Defines a container for SVG graphics                                                                     |
 | `<canvas>`     | Used to draw graphics, on the fly, via scripting (usually JavaScript)                                    |
+| `<iframe>`     | Defines an inline frame                                                                                  |
 | `<embed>`      | Defines a container for an external application                                                          |
 | `<object>`     | Defines a container for an external application                                                          |
 | `<param>`      | Defines a parameter for an object                                                                        |
