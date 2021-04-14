@@ -97,17 +97,17 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | `<form>`       | Defines an HTML form for user input                                                                      |
 | `<input>`      | Defines an input control                                                                                 |
 | `<datalist>`   | Specifies a list of pre-defined options for input controls                                               |
+| `<meter>`      | Defines a scalar measurement within a known range (a gauge)                                              |
+| `<progress>`   | Represents the progress of a task                                                                        |
+| `<textarea>`   | Defines a multiline input control (text area)                                                            |
 | `<label>`      | Defines a label for an `<input>` element                                                                 |
 | `<button>`     | Defines a clickable button                                                                               |
-| `<textarea>`   | Defines a multiline input control (text area)                                                            |
 | `<select>`     | Defines a drop-down list                                                                                 |
 | `<option>`     | Defines an option in a drop-down list                                                                    |
 | `<optgroup>`   | Defines a group of related options in a drop-down list                                                   |
 | `<fieldset>`   | Groups related elements in a form                                                                        |
 | `<legend>`     | Defines a caption for a `<fieldset>` element                                                             |
 | `<output>`     | Defines the result of a calculation                                                                      |
-| `<meter>`      | Defines a scalar measurement within a known range (a gauge)                                              |
-| `<progress>`   | Represents the progress of a task                                                                        |
 | `<template>`   | Defines a container for content that should be hidden when the page loads                                |
 | `<audio>`      | Defines embedded sound content                                                                           |
 | `<video>`      | Defines embedded video content                                                                           |
