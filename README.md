@@ -82,19 +82,18 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | [`<kbd>`](/tags/kbd.md) | Defines keyboard input |
 | [`<samp>`](/tags/samp.md) | Defines sample output from a computer program |
 | [`<mark>`](/tags/mark.md) | Defines marked/highlighted text |
-| `<details>`    | Defines additional details that the user can view or hide                                                |
-| `<summary>`    | Defines a visible heading for a `<details>` element                                                      |
-| `<dialog>`     | Defines a dialog box or window                                                                           |
-| `<dfn>`        | Specifies a term that is going to be defined within the content                                          |
-| `<dl>`         | Defines a description list                                                                               |
-| `<dt>`         | Defines a term/name in a description list                                                                |
-| `<dd>`         | Defines a description/value of a term in a description list                                              |
-| `<meter>`      | Defines a scalar measurement within a known range (a gauge)                                              |
-| `<bdi>`        | Isolates a part of text that might be formatted in a different direction from other text outside it      |
-| `<bdo>`        | Overrides the current text direction                                                                     |
-| `<ruby>`       | Defines a ruby annotation (for East Asian typography)                                                    |
-| `<rt>`         | Defines an explanation/pronunciation of characters (for East Asian typography)                           |
-| `<rp>`         | Defines what to show in browsers that do not support ruby annotations                                    |
+| [`<details>`](/tags/details.md) | Defines additional details that the user can view or hide |
+| [`<summary>`](/tags/summary.md) | Defines a visible heading for a `<details>` element |
+| [`<dialog>`](/tags/dialog.md) | Defines a dialog box or window |
+| [`<dfn>`](/tags/dfn.md) | Specifies a term that is going to be defined within the content |
+| [`<dl>`](/tags/dl.md) | Defines a description list |
+| [`<dt>`](/tags/dt.md) | Defines a term/name in a description list |
+| [`<dd>`](/tags/dd.md) | Defines a description/value of a term in a description list |
+| [`<bdo>`](/tags/bdo.md) | Overrides the current text direction |
+| [`<bdi>`](/tags/bdi.md) | Isolates a part of text that might be formatted in a different direction from other text outside it |
+| [`<ruby>`](/tags/ruby.md) | Defines a ruby annotation (for East Asian typography) |
+| [`<rt>`](/tags/rt.md) | Defines an explanation/pronunciation of characters (for East Asian typography) |
+| [`<rp>`](/tags/rp.md) | Defines what to show in browsers that do not support ruby annotations |
 | `<img>`        | Defines an image                                                                                         |
 | `<picture>`    | Defines a container for multiple image resources                                                         |
 | `<map>`        | Defines an image-map                                                                                     |
@@ -113,6 +112,7 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | `<fieldset>`   | Groups related elements in a form                                                                        |
 | `<legend>`     | Defines a caption for a `<fieldset>` element                                                             |
 | `<output>`     | Defines the result of a calculation                                                                      |
+| `<meter>`      | Defines a scalar measurement within a known range (a gauge)                                              |
 | `<progress>`   | Represents the progress of a task                                                                        |
 | `<template>`   | Defines a container for content that should be hidden when the page loads                                |
 | `<audio>`      | Defines embedded sound content                                                                           |
