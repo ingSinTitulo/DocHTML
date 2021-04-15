@@ -42,7 +42,7 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | [`<li>`](/tags/li.md) | Defines a list item |
 | [`<div>`](/tags/div.md) | Defines a block section in a document |
 | [`<span>`](/tags/span.md) | Defines an inline section in a document |
-| Semantic containers |
+| Semantics |
 | [`<nav>`](/tags/nav.md) | Defines navigation links |
 | [`<header>`](/tags/header.md) | Defines a header for a document or section |
 | [`<main>`](/tags/main.md) | Specifies the main content of a document |
@@ -51,6 +51,9 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | [`<address>`](/tags/address.md) | Defines contact information for the author/owner of a document |
 | [`<footer>`](/tags/footer.md) | Defines a footer for a document or section |
 | [`<aside>`](/tags/aside.md) | Defines content aside from the page content |
+| [`<details>`](/tags/details.md) | Defines additional details that the user can view or hide |
+| [`<summary>`](/tags/summary.md) | Defines a visible heading for a `<details>` element |
+| [`<dialog>`](/tags/dialog.md) | Defines a dialog box or window |
 | `<template>`   | Defines a container for content that should be hidden when the page loads                                |
 | Table related elements |
 | [`<table>`](/tags/table.md) | Defines a table |
@@ -87,9 +90,6 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | [`<kbd>`](/tags/kbd.md) | Defines keyboard input |
 | [`<samp>`](/tags/samp.md) | Defines sample output from a computer program |
 | [`<mark>`](/tags/mark.md) | Defines marked/highlighted text |
-| [`<details>`](/tags/details.md) | Defines additional details that the user can view or hide |
-| [`<summary>`](/tags/summary.md) | Defines a visible heading for a `<details>` element |
-| [`<dialog>`](/tags/dialog.md) | Defines a dialog box or window |
 | [`<dfn>`](/tags/dfn.md) | Specifies a term that is going to be defined within the content |
 | [`<dl>`](/tags/dl.md) | Defines a description list |
 | [`<dt>`](/tags/dt.md) | Defines a term/name in a description list |
