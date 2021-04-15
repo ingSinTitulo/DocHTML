@@ -13,6 +13,7 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 ## Currently usable tags
 | Tag | Description |
 |-|-|
+| Basic elements |
 | [`<!DOCTYPE>`](/tags/!DOCTYPE.md) | Defines the document type |
 | [`<!--...-->`](/tags/!--.md) | Defines a comment |
 | [`<html>`](/tags/html.md) | Defines the root of an HTML document |
@@ -41,6 +42,7 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | [`<li>`](/tags/li.md) | Defines a list item |
 | [`<div>`](/tags/div.md) | Defines a block section in a document |
 | [`<span>`](/tags/span.md) | Defines an inline section in a document |
+| Semantic containers |
 | [`<nav>`](/tags/nav.md) | Defines navigation links |
 | [`<header>`](/tags/header.md) | Defines a header for a document or section |
 | [`<main>`](/tags/main.md) | Specifies the main content of a document |
@@ -49,6 +51,7 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | [`<address>`](/tags/address.md) | Defines contact information for the author/owner of a document |
 | [`<footer>`](/tags/footer.md) | Defines a footer for a document or section |
 | [`<aside>`](/tags/aside.md) | Defines content aside from the page content |
+| Table related elements |
 | [`<table>`](/tags/table.md) | Defines a table |
 | [`<thead>`](/tags/thead.md) | Groups the header content in a table |
 | [`<tr>`](/tags/tr.md) | Defines a row in a table |
@@ -59,6 +62,7 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | [`<caption>`](/tags/caption.md) | Defines a table caption |
 | [`<colgroup>`](tags/colgroup.md) | Specifies a group of one or more columns in a table for formatting |
 | [`<col>`](/tags/col.md) | Specifies column properties for each column within a `<colgroup>` element |
+| Text and data formatting |
 | [`<b>`](/tags/b.md) | Defines bold text |
 | [`<strong>`](/tags/strong.md) | Defines important text |
 | [`<i>`](/tags/i.md) | Defines a part of text in an alternate voice or mood |
@@ -89,11 +93,13 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | [`<dl>`](/tags/dl.md) | Defines a description list |
 | [`<dt>`](/tags/dt.md) | Defines a term/name in a description list |
 | [`<dd>`](/tags/dd.md) | Defines a description/value of a term in a description list |
+| Language related elements |
 | [`<bdo>`](/tags/bdo.md) | Overrides the current text direction |
 | [`<bdi>`](/tags/bdi.md) | Isolates a part of text that might be formatted in a different direction from other text outside it |
 | [`<ruby>`](/tags/ruby.md) | Defines a ruby annotation (for East Asian typography) |
 | [`<rt>`](/tags/rt.md) | Defines an explanation/pronunciation of characters (for East Asian typography) |
 | [`<rp>`](/tags/rp.md) | Defines what to show in browsers that do not support ruby annotations |
+| Form related elements |
 | `<form>`       | Defines an HTML form for user input                                                                      |
 | `<input>`      | Defines an input control                                                                                 |
 | `<datalist>`   | Specifies a list of pre-defined options for input controls                                               |
@@ -109,6 +115,7 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | `<legend>`     | Defines a caption for a `<fieldset>` element                                                             |
 | `<output>`     | Defines the result of a calculation                                                                      |
 | `<template>`   | Defines a container for content that should be hidden when the page loads                                |
+| Multimedia |
 | `<audio>`      | Defines embedded sound content                                                                           |
 | `<video>`      | Defines embedded video content                                                                           |
 | `<source>`     | Defines multiple media resources for media elements (`<video>` and `<audio>`)                            |
@@ -121,6 +128,7 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | `<figcaption>` | Defines a caption for a `<figure>` element                                                               |
 | `<svg>`        | Defines a container for SVG graphics                                                                     |
 | `<canvas>`     | Used to draw graphics, on the fly, via scripting (usually JavaScript)                                    |
+| Inserting external content |
 | `<iframe>`     | Defines an inline frame                                                                                  |
 | `<embed>`      | Defines a container for an external application                                                          |
 | `<object>`     | Defines a container for an external application                                                          |
