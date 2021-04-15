@@ -51,6 +51,7 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | [`<address>`](/tags/address.md) | Defines contact information for the author/owner of a document |
 | [`<footer>`](/tags/footer.md) | Defines a footer for a document or section |
 | [`<aside>`](/tags/aside.md) | Defines content aside from the page content |
+| `<template>`   | Defines a container for content that should be hidden when the page loads                                |
 | Table related elements |
 | [`<table>`](/tags/table.md) | Defines a table |
 | [`<thead>`](/tags/thead.md) | Groups the header content in a table |
@@ -102,19 +103,18 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | Form related elements |
 | `<form>`       | Defines an HTML form for user input                                                                      |
 | `<input>`      | Defines an input control                                                                                 |
+| `<button>`     | Defines a clickable button                                                                               |
 | `<datalist>`   | Specifies a list of pre-defined options for input controls                                               |
 | `<meter>`      | Defines a scalar measurement within a known range (a gauge)                                              |
 | `<progress>`   | Represents the progress of a task                                                                        |
 | `<textarea>`   | Defines a multiline input control (text area)                                                            |
-| `<label>`      | Defines a label for an `<input>` element                                                                 |
-| `<button>`     | Defines a clickable button                                                                               |
 | `<select>`     | Defines a drop-down list                                                                                 |
 | `<option>`     | Defines an option in a drop-down list                                                                    |
 | `<optgroup>`   | Defines a group of related options in a drop-down list                                                   |
+| `<label>`      | Defines a label for an `<input>` element                                                                 |
 | `<fieldset>`   | Groups related elements in a form                                                                        |
 | `<legend>`     | Defines a caption for a `<fieldset>` element                                                             |
 | `<output>`     | Defines the result of a calculation                                                                      |
-| `<template>`   | Defines a container for content that should be hidden when the page loads                                |
 | Multimedia |
 | `<audio>`      | Defines embedded sound content                                                                           |
 | `<video>`      | Defines embedded video content                                                                           |
