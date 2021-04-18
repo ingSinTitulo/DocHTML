@@ -13,11 +13,14 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 ## Currently usable tags
 | Tag | Description |
 |-|-|
-| Basic elements |
+| Tags that do not generate an element ||
 | [`<!DOCTYPE>`](/tags/!DOCTYPE.md) | Defines the document type |
 | [`<!--...-->`](/tags/!--.md) | Defines a comment |
+| Basic structure ||
 | [`<html>`](/tags/html.md) | Defines the root of an HTML document |
 | [`<head>`](/tags/head.md) | Contains metadata/information for the document |
+| [`<body>`](/tags/body.md) | Defines the document's body |
+| Metadata ||
 | [`<title>`](/tags/title.md) | Defines a title for the document |
 | [`<meta>`](/tags/meta.md) | Defines metadata about an HTML document |
 | [`<style>`](/tags/style.md) | Defines style information for a document |
@@ -25,7 +28,7 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | [`<script>`](/tags/script.md) | Defines a client-side script |
 | [`<noscript>`](/tags/noscript.md) | Defines an alternate content for users that do not support client-side scripts |
 | [`<base>`](/tags/base.md) | Specifies the base URL/target for all relative URLs in a document |
-| [`<body>`](/tags/body.md) | Defines the document's body |
+| Basic content ||
 | [`<p>`](/tags/p.md) | Defines a paragraph |
 | [`<br>`](/tags/br.md) | Defines a single line break |
 | [`<wbr>`](/tags/wbr.md) | Defines a possible line-break |
@@ -37,12 +40,14 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | [`<h5>`](/tags/h1toh6.md) | Defines HTML fifth level headings |
 | [`<h6>`](/tags/h1toh6.md) | Defines HTML sixth level headings - Smallest |
 | [`<hr>`](/tags/hr.md) | Defines a thematic change in the content |
+| Lists ||
 | [`<ul>`](/tags/ul.md) | Defines an unordered list |
 | [`<ol>`](/tags/ol.md) | Defines an ordered list |
 | [`<li>`](/tags/li.md) | Defines a list item |
+| Basic containers ||
 | [`<div>`](/tags/div.md) | Defines a block section in a document |
 | [`<span>`](/tags/span.md) | Defines an inline section in a document |
-| Semantics |
+| Semantics ||
 | [`<nav>`](/tags/nav.md) | Defines navigation links |
 | [`<header>`](/tags/header.md) | Defines a header for a document or section |
 | [`<main>`](/tags/main.md) | Specifies the main content of a document |
@@ -54,8 +59,8 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | [`<details>`](/tags/details.md) | Defines additional details that the user can view or hide |
 | [`<summary>`](/tags/summary.md) | Defines a visible heading for a `<details>` element |
 | [`<dialog>`](/tags/dialog.md) | Defines a dialog box or window |
-| `<template>`   | Defines a container for content that should be hidden when the page loads                                |
-| Table related elements |
+| [`<template>`](/tags/template.md) | Defines a container for content that should be hidden when the page loads |
+| Table related ||
 | [`<table>`](/tags/table.md) | Defines a table |
 | [`<thead>`](/tags/thead.md) | Groups the header content in a table |
 | [`<tr>`](/tags/tr.md) | Defines a row in a table |
@@ -66,41 +71,43 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | [`<caption>`](/tags/caption.md) | Defines a table caption |
 | [`<colgroup>`](tags/colgroup.md) | Specifies a group of one or more columns in a table for formatting |
 | [`<col>`](/tags/col.md) | Specifies column properties for each column within a `<colgroup>` element |
-| Text and data formatting |
+| Text fromatting ||
 | [`<b>`](/tags/b.md) | Defines bold text |
 | [`<strong>`](/tags/strong.md) | Defines important text |
 | [`<i>`](/tags/i.md) | Defines a part of text in an alternate voice or mood |
 | [`<em>`](/tags/em.md) | Defines emphasized text |
+| [`<u>`](/tags/u.md) | Defines some text that is unarticulated and styled differently from normal text |
 | [`<s>`](/tags/s.md) | Defines text that is no longer correct |
 | [`<del>`](/tags/del.md) | Defines text that has been deleted from a document |
 | [`<ins>`](/tags/ins.md) | Defines a text that has been inserted into a document |
-| [`<u>`](/tags/u.md) | Defines some text that is unarticulated and styled differently from normal text |
-| [`<abbr>`](/tags/abbr.md) | Defines an abbreviation or an acronym |
-| [`<pre>`](/tags/pre.md) | Defines preformatted text |
-| [`<code>`](/tags/code.md) | Defines a piece of computer code |
 | [`<small>`](/tags/small.md) | Defines smaller text |
+| [`<mark>`](/tags/mark.md) | Defines marked/highlighted text |
+| [`<pre>`](/tags/pre.md) | Defines preformatted text |
+| [`<sub>`](/tags/sub.md) | Defines subscripted text |
+| [`<sup>`](/tags/sup.md) | Defines superscripted text |
+| Data fromatting ||
+| [`<data>`](/tags/data.md) | Adds a machine-readable translation of a given content |
+| [`<abbr>`](/tags/abbr.md) | Defines an abbreviation or an acronym |
 | [`<cite>`](/tags/cite.md) | Defines the title of a work |
 | [`<q>`](/tags/q.md) | Defines a short quotation |
 | [`<blockquote>`](/tags/blockquote.md) | Defines a section that is quoted from another source |
-| [`<sub>`](/tags/sub.md) | Defines subscripted text |
-| [`<sup>`](/tags/sup.md) | Defines superscripted text |
 | [`<var>`](/tags/var.md) | Defines a variable |
-| [`<time>`](/tags/time.md) | Defines a specific time (or datetime) |
-| [`<data>`](/tags/data.md) | Adds a machine-readable translation of a given content |
 | [`<kbd>`](/tags/kbd.md) | Defines keyboard input |
 | [`<samp>`](/tags/samp.md) | Defines sample output from a computer program |
-| [`<mark>`](/tags/mark.md) | Defines marked/highlighted text |
+| [`<code>`](/tags/code.md) | Defines a piece of computer code |
+| [`<time>`](/tags/time.md) | Defines a specific time (or datetime) |
+| Definitions ||
 | [`<dfn>`](/tags/dfn.md) | Specifies a term that is going to be defined within the content |
 | [`<dl>`](/tags/dl.md) | Defines a description list |
 | [`<dt>`](/tags/dt.md) | Defines a term/name in a description list |
 | [`<dd>`](/tags/dd.md) | Defines a description/value of a term in a description list |
-| Language related elements |
+| Language related ||
 | [`<bdo>`](/tags/bdo.md) | Overrides the current text direction |
 | [`<bdi>`](/tags/bdi.md) | Isolates a part of text that might be formatted in a different direction from other text outside it |
 | [`<ruby>`](/tags/ruby.md) | Defines a ruby annotation (for East Asian typography) |
 | [`<rt>`](/tags/rt.md) | Defines an explanation/pronunciation of characters (for East Asian typography) |
 | [`<rp>`](/tags/rp.md) | Defines what to show in browsers that do not support ruby annotations |
-| Form related elements |
+| Form related ||
 | `<form>`       | Defines an HTML form for user input                                                                      |
 | `<input>`      | Defines an input control                                                                                 |
 | `<button>`     | Defines a clickable button                                                                               |
@@ -115,7 +122,7 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | `<fieldset>`   | Groups related elements in a form                                                                        |
 | `<legend>`     | Defines a caption for a `<fieldset>` element                                                             |
 | `<output>`     | Defines the result of a calculation                                                                      |
-| Multimedia |
+| Multimedia ||
 | `<audio>`      | Defines embedded sound content                                                                           |
 | `<video>`      | Defines embedded video content                                                                           |
 | `<source>`     | Defines multiple media resources for media elements (`<video>` and `<audio>`)                            |
@@ -128,7 +135,7 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | `<figcaption>` | Defines a caption for a `<figure>` element                                                               |
 | `<svg>`        | Defines a container for SVG graphics                                                                     |
 | `<canvas>`     | Used to draw graphics, on the fly, via scripting (usually JavaScript)                                    |
-| Inserting external content |
+| Inserting external content ||
 | `<iframe>`     | Defines an inline frame                                                                                  |
 | `<embed>`      | Defines a container for an external application                                                          |
 | `<object>`     | Defines a container for an external application                                                          |
