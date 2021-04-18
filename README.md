@@ -9,7 +9,7 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 - An HTML document is conformed by HTML [elements](/first-steps/elements.md), an element has to have a starting tag and optionally an inner content and a closing tag
 - In this documentation we will work only with [HTML documents](/first-steps/documents.md)
 - If you find any strange word to you, tell me and it will be added to a [dictionary](/first-steps/dictionary.md) that you can consult in the future
----
+
 ## Currently usable tags
 | Tag | Description |
 |-|-|
@@ -127,6 +127,7 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | `<video>`      | Defines embedded video content                                                                           |
 | `<source>`     | Defines multiple media resources for media elements (`<video>` and `<audio>`)                            |
 | `<track>`      | Defines text tracks for media elements (`<video>` and `<audio>`)                                         |
+| Graphics ||
 | `<img>`        | Defines an image                                                                                         |
 | `<picture>`    | Defines a container for multiple image resources                                                         |
 | `<map>`        | Defines an image-map                                                                                     |
@@ -141,7 +142,6 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | `<object>`     | Defines a container for an external application                                                          |
 | `<param>`      | Defines a parameter for an object                                                                        |
 
----
 ## Deprecated tags, do not use any of these anymore under any circumstances
 | Tag           | Description                                                           | Can be replaced with...        |
 |---------------|-----------------------------------------------------------------------|--------------------------------|
