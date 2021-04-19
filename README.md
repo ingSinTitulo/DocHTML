@@ -108,16 +108,16 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | [`<rt>`](/tags/rt.md) | Defines an explanation/pronunciation of characters (for East Asian typography) |
 | [`<rp>`](/tags/rp.md) | Defines what to show in browsers that do not support ruby annotations |
 | Form related ||
-| `<form>`       | Defines an HTML form for user input                                                                      |
-| `<input>`      | Defines an input control                                                                                 |
-| `<button>`     | Defines a clickable button                                                                               |
+| [`<form>`](/tags/form.md) | Defines an HTML form for user input |
+| [`<input>`](/tags/input.md) | Defines an input control |
+| [`<button>`](/tags/button.md) | Defines a clickable button |
+| [`<select>`](/tags/select.md) | Defines a drop-down list |
+| [`<option>`](/tags/option.md) | Defines an option in a drop-down list |
+| [`<optgroup>`](/tags/optgroup.md) | Defines a group of related options in a drop-down list |
 | `<datalist>`   | Specifies a list of pre-defined options for input controls                                               |
 | `<meter>`      | Defines a scalar measurement within a known range (a gauge)                                              |
 | `<progress>`   | Represents the progress of a task                                                                        |
 | `<textarea>`   | Defines a multiline input control (text area)                                                            |
-| `<select>`     | Defines a drop-down list                                                                                 |
-| `<option>`     | Defines an option in a drop-down list                                                                    |
-| `<optgroup>`   | Defines a group of related options in a drop-down list                                                   |
 | `<label>`      | Defines a label for an `<input>` element                                                                 |
 | `<fieldset>`   | Groups related elements in a form                                                                        |
 | `<legend>`     | Defines a caption for a `<fieldset>` element                                                             |
