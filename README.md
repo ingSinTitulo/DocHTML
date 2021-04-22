@@ -114,14 +114,14 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | [`<select>`](/tags/select.md) | Defines a drop-down list |
 | [`<option>`](/tags/option.md) | Defines an option in a drop-down list |
 | [`<optgroup>`](/tags/optgroup.md) | Defines a group of related options in a drop-down list |
-| `<datalist>`   | Specifies a list of pre-defined options for input controls                                               |
-| `<meter>`      | Defines a scalar measurement within a known range (a gauge)                                              |
-| `<progress>`   | Represents the progress of a task                                                                        |
-| `<textarea>`   | Defines a multiline input control (text area)                                                            |
-| `<label>`      | Defines a label for an `<input>` element                                                                 |
-| `<fieldset>`   | Groups related elements in a form                                                                        |
-| `<legend>`     | Defines a caption for a `<fieldset>` element                                                             |
-| `<output>`     | Defines the result of a calculation                                                                      |
+| [`<datalist>`](/tags/datalist.md) | Specifies a list of pre-defined options for input controls |
+| [`<meter>`](/tags/meter.md) | Defines a scalar measurement within a known range (a gauge) |
+| [`<progress>`](/tags/progress.md) | Represents the progress of a task |
+| [`<textarea>`](/tags/textarea.md) | Defines a multiline input control (text area) |
+| [`<label>`](/tags/label.md) | Defines a label for an `<input>` element |
+| [`<fieldset>`](/tags/fieldset.md) | Groups related elements in a form |
+| [`<legend>`](/tags/legend.md) | Defines a caption for a `<fieldset>` element |
+| [`<output>`](/tags/output.md) | Defines the result of a calculation |
 | Multimedia ||
 | `<audio>`      | Defines embedded sound content                                                                           |
 | `<video>`      | Defines embedded video content                                                                           |
