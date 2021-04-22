@@ -123,10 +123,10 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | [`<legend>`](/tags/legend.md) | Defines a caption for a `<fieldset>` element |
 | [`<output>`](/tags/output.md) | Defines the result of a calculation |
 | Multimedia ||
-| `<audio>`      | Defines embedded sound content                                                                           |
-| `<video>`      | Defines embedded video content                                                                           |
-| `<source>`     | Defines multiple media resources for media elements (`<video>` and `<audio>`)                            |
-| `<track>`      | Defines text tracks for media elements (`<video>` and `<audio>`)                                         |
+| [`<audio>`](/tags/audio.md) | Defines embedded sound content |
+| [`<video>`](/tags/video.md) | Defines embedded video content |
+| [`<source>`](/tags/source) | Defines multiple media resources for media elements (`<video>` and `<audio>`) |
+| [`<track>`](/tags/track.md) | Defines text tracks for media elements (`<video>` and `<audio>`) |
 | Graphics ||
 | `<img>`        | Defines an image                                                                                         |
 | `<picture>`    | Defines a container for multiple image resources                                                         |
