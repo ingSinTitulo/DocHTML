@@ -128,14 +128,14 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | [`<source>`](/tags/source) | Defines multiple media resources for media elements (`<video>` and `<audio>`) |
 | [`<track>`](/tags/track.md) | Defines text tracks for media elements (`<video>` and `<audio>`) |
 | Graphics ||
-| `<img>`        | Defines an image                                                                                         |
-| `<picture>`    | Defines a container for multiple image resources                                                         |
-| `<map>`        | Defines an image-map                                                                                     |
-| `<area>`       | Defines an area inside an image-map                                                                      |
-| `<figure>`     | Specifies self-contained content                                                                         |
-| `<figcaption>` | Defines a caption for a `<figure>` element                                                               |
-| `<svg>`        | Defines a container for SVG graphics                                                                     |
-| `<canvas>`     | Used to draw graphics, on the fly, via scripting (usually JavaScript)                                    |
+| [`<img>`](/tags/img.md) | Defines an image |
+| [`<map>`](/tags/map.md) | Defines an image-map |
+| [`<area>`](/tags/area.md) | Defines an area inside an image-map |
+| [`<picture>`](/tags/picture.md) | Defines a container for multiple image resources |
+| [`<figure>`](/tags/figure.md) | Specifies self-contained content |
+| [`<figcaption>`](/tags/figcaption.md) | Defines a caption for a `<figure>` element |
+| [`<svg>`](/tags/svg.md) | Defines a container for SVG graphics |
+| [`<canvas>`](/tags/canvas.md) | Used to draw graphics, on the fly, via scripting (usually JavaScript) |
 | Inserting external content ||
 | `<iframe>`     | Defines an inline frame                                                                                  |
 | `<embed>`      | Defines a container for an external application                                                          |
