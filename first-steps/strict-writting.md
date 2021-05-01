@@ -5,8 +5,3 @@ This is simple, if this documentation tells you to write `ABCD` you should proba
 
 ## Please, use logic
 I will really thank you if you are proactive and by simple logic exercises you find the way of writting a valid HTML document. It is not that hard, just think a little. HTML is the easiest language we will learn so treat it as the easy thing it is and do not be scared.
-
-## Some notation
-- `[category name]` can be replaced by any of the elements in the set called 'category name'
-- `...` can be replaced with anything, yes anything. Including but not limited to any word, number, phrase, space, etc.
-- _This list will grow as i need_
