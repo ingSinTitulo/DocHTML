@@ -137,10 +137,10 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | [`<svg>`](/tags/svg.md) | Defines a container for SVG graphics |
 | [`<canvas>`](/tags/canvas.md) | Used to draw graphics, on the fly, via scripting (usually JavaScript) |
 | Inserting external content ||
-| `<iframe>`     | Defines an inline frame                                                                                  |
-| `<embed>`      | Defines a container for an external application                                                          |
-| `<object>`     | Defines a container for an external application                                                          |
-| `<param>`      | Defines a parameter for an object                                                                        |
+| [`<iframe>`](/tags/iframe.md) | Defines an inline frame |
+| [`<embed>`](/tags/embed.md) | Defines a container for an external application |
+| [`<object>`](/tags/object.md) | Defines a container for an external application |
+| [`<param>`](/tags/param.md) | Defines a parameter for an object |
 
 ## Deprecated tags, do not use any of these anymore under any circumstances
 | Tag           | Description                                                           | Can be replaced with...        |
