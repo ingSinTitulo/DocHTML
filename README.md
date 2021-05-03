@@ -9,6 +9,7 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 - An HTML document is conformed by HTML [elements](/first-steps/elements.md), an element has to have a starting tag and optionally an inner content and a closing tag
 - In this documentation we will work only with [HTML documents](/first-steps/documents.md)
 - If you find any strange word to you, tell me and it will be added to a [dictionary](/first-steps/dictionary.md) that you can consult in the future
+- If you know any element that is not listed here, it should be either deprecated or not still part of the official standard
 
 ## Currently usable tags
 | Tag | Description |
@@ -141,19 +142,3 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | [`<embed>`](/tags/embed.md) | Defines a container for an external application |
 | [`<object>`](/tags/object.md) | Defines a container for an external application |
 | [`<param>`](/tags/param.md) | Defines a parameter for an object |
-
-## Deprecated tags, do not use any of these anymore under any circumstances
-| Tag           | Description                                                           | Can be replaced with...        |
-|---------------|-----------------------------------------------------------------------|--------------------------------|
-| `<dir>`       | Defines a directory list                                              | `<ul>`                         |
-| `<center>`    | Defines centered text                                                 | CSS rules                      |
-| `<big>`       | Defines big text                                                      | CSS rules                      |
-| `<basefont>`  | Specifies a default color, size, and font for all text in a document  | CSS rules                      |
-| `<applet>`    | Defines an embedded applet                                            | `<embed>` or `<object>`        |
-| `<acronym>`   | Defines an acronym                                                    | `<abbr>`                       |
-| `<font>`      | Defines font, color, and size for text                                | CSS rules                      |
-| `<frame>`     | Defines a window (a frame) in a frameset                              | No longer supported nor needed |
-| `<frameset>`  | Defines a set of frames                                               | No longer supported nor needed |
-| `<noframes>`  | Defines an alternate content for users that do not support frames     | No longer supported nor needed |
-| `<strike>`    | Defines strikethrough text                                            | `<del>` or `<s>`               |
-| `<tt>`        | Defines teletype text                                                 | CSS rules                      |
