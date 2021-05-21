@@ -11,7 +11,7 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 - If you find any strange word to you, tell me and it will be added to a [dictionary](/first-steps/dictionary.md) that you can consult in the future
 - If you know any element that is not listed here, it should be either deprecated or not still part of the official standard
 
-## Currently usable tags
+## Currently valid tags
 | Tag | Description |
 |-|-|
 | Tags that do not generate an element ||
