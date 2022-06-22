@@ -142,3 +142,22 @@ Taken from [w3schools](https://www.w3schools.com/tags/default.asp)
 | [`<embed>`](/tags/embed.md) | Defines a container for an external application |
 | [`<object>`](/tags/object.md) | Defines a container for an external application |
 | [`<param>`](/tags/param.md) | Defines a parameter for an object |
+
+## Examples
+Some examples are included in the `examples` directory to help you see real uses of HTML tags, you can read the code to understand what is being used. The examples are the most minimal posible while still being complete and valid. Clone this repository and double click on each file to open them in your browser to see what is the result of each one. Here are a list of the examples:
+
+| File name | Description |
+|-|-|
+| `01-simplest-valid-document.html` | The simplest possible HTML document complaint with this documentation |
+| `02-using-entities-to-show-special-characters.html` | Using [HTML entities](https://github.com/ingSinTitulo/EntitiesHTML) listed in other of my repos to show text regardless of the encoding of the document (cPanel sometimes change the encoding of a document that contains a special character, if you use entities it will not happen, for example) |
+| `03-open-link-on-button-click.html` | A simple trick to impress your co-workers. Adding a link to a button without JavaScript nor CSS |
+| `04-use-tables-to-make-a-month-calendar.html` | 11 out of 10 web developers hate HTML tables, but here is a useful example of them |
+| `05-image-grid.html` | Creating a 9x9 image grid |
+| `06-input-types.html` | Examples of the different input types so you know how to use them depending on what info you want from the user |
+| `07-svg.html` | SVG tags are not part of the HTML specification, but this example shows you how to integrate them in the document |
+| `08-meta-tags.html` | Standard meta tags that give extra information about the document to the browser |
+| `09-open-graph-tags.html` | Open graph meta tags to give extra information about the document to the crawlers of Facebook, Whatsapp, Twitter, MS Teams and other social media and applications, to show a preview of the site when you send a link as message or post |
+| `10-twitter-card-tags.html` | Specific meta tags for twitter, to change the style and data shown in the preview |
+
+## Next steps
+I will make a CSS reference starting from the `01-simplest-valid-document.html` document, so the experience will feel smooth.
